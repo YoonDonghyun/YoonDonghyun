@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 My current research interest lies in the field of time series anomaly detection, with a particular focus on its applications within the semiconductor industry.
+- 🔭 I'm currently pursuing my studies at the IMLab (Information Management Laboratory) within the Department of Industrial Engineering at Seoul National University.
+- 🔭 For approximately two and a half years, I had the privilege of working at RTM (Rocket To the Moon), focusing on research and product development in anomaly detection and fault detection for dry strip equipment.
 <!--
 **YoonDonghyun/YoonDonghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
